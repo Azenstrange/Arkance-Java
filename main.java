@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Collections;
 public class main {
-	public static void sort(String[] args){
+	public static void main(String[] args){
 		String fichier ="input.txt";	
     Integer[] tableau = new  Integer[0];
     try {
